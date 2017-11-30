@@ -12,7 +12,6 @@ import matplotlib.pyplot as plt
 plt.style.use("seaborn")
 import numpy as np
 from math import pi
-from sklearn.svm import SVC
 
 #target function
 def f(X):
@@ -24,8 +23,7 @@ Ein_eq_0 = 0
 for i in range(Nruns):
     X = generate_points()
     
-    #Evaluate outputs for samples in X, f(x) = sign(x2 - x1 + 0.25 * sin(pi * x1))
-    
+    #Evaluate outputs for samples in X, f(x) = sign(x2 - x1 + 0.25 * sin(pi * x1))    
     y = f(X)
     
     #RBF-normal (clustering -> gaussian RBF -> linear regression)
