@@ -8,7 +8,7 @@ This course balances theory and practice, and covers the mathematical as well as
 
 Anyone interested in this course can take it through https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0
 
-The course covers:
+## Lectures:
 - [Lecture 1: The Learning Problem](https://github.com/quangddt/learning-from-data/blob/master/Slides/slides01shkene.pdf)  
 - [Lecture 2: Is Learning Feasible?](https://github.com/quangddt/learning-from-data/blob/master/Slides/slides02.pdf)
 - [Lecture 3: The Linear Model I](https://github.com/quangddt/learning-from-data/blob/master/Slides/slides03u3lrej.pdf)
@@ -28,7 +28,7 @@ The course covers:
 - [Lecture 17: Three Learning Principles](https://github.com/quangddt/learning-from-data/blob/master/Slides/17.Three_Learning_Principles.pdf)
 - [Lecture 18: Epilogue](https://github.com/quangddt/learning-from-data/blob/master/Slides/18.Epilogue.pdf)
 
-My codes in Python for the Programming Assigments:
+## Programming Assigments Code in Python:
 - [Perceptron Learning Algorithm](https://github.com/quangddt/learning-from-data/blob/master/HW/HW1_1.py)
 - [Linear Regression](https://github.com/quangddt/learning-from-data/blob/master/HW/HW2_2.py)
 - [Linear Regression with Nonlinear Transformation](https://github.com/quangddt/learning-from-data/blob/master/HW/HW2_3.py)
